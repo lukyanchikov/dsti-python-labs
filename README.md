@@ -7,7 +7,7 @@ This repository contains my DSTI Python Labs Project. The objective of the code 
 
 The following components are recommended prerequisites:
 
-- [Python 3.6.8](https://www.python.org/downloads/release/python-368/)
+- [Python 3.6.7](https://www.python.org/downloads/release/python-367/)
 - [Jupyter Notebook](https://jupyter.org/install) - once Python has been installed
 
 # Installation
