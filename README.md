@@ -26,4 +26,4 @@ The following components are recommended prerequisites:
 
 (2) Use the `Run All` command in the `Cell` menu in Jupyter Notebook
 
-(3) Review the outputs produced under the `#Run by defining the parameter values:` section (NB: the very last output - simulation of accuracy - may take 1-2 minutes to appear, the simulation progress is indicated by the `... out of 10 simulation runs completed.` messages printed in the `#Simulate accuracy:` section 
+(3) Review the outputs produced under the `#Run by defining the parameter values:` section (NB: the very last output - simulation of accuracy - may take 1-2 minutes to appear, the simulation progress is indicated by the `... out of 10 simulation runs completed.` messages displayed in the `#Simulate accuracy:` section 
